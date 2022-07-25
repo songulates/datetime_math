@@ -1,0 +1,15 @@
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\datetime_math\bin\Debug\net6.0\datetime_math.exe
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\datetime_math\bin\Debug\net6.0\datetime_math.deps.json
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\datetime_math\bin\Debug\net6.0\datetime_math.runtimeconfig.json
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\datetime_math\bin\Debug\net6.0\datetime_math.dll
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\datetime_math\bin\Debug\net6.0\datetime_math.pdb
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\datetime_math\obj\Debug\net6.0\datetime_math.csproj.AssemblyReference.cache
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\datetime_math\obj\Debug\net6.0\datetime_math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\datetime_math\obj\Debug\net6.0\datetime_math.AssemblyInfoInputs.cache
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\datetime_math\obj\Debug\net6.0\datetime_math.AssemblyInfo.cs
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\datetime_math\obj\Debug\net6.0\datetime_math.csproj.CoreCompileInputs.cache
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\datetime_math\obj\Debug\net6.0\datetime_math.dll
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\datetime_math\obj\Debug\net6.0\refint\datetime_math.dll
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\datetime_math\obj\Debug\net6.0\datetime_math.pdb
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\datetime_math\obj\Debug\net6.0\datetime_math.genruntimeconfig.cache
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\datetime_math\obj\Debug\net6.0\ref\datetime_math.dll
